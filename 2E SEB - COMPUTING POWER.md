@@ -22,7 +22,15 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
+#Reg.no: 212222063014
+#Name: SARATH KUMAR.K
+
+a=input()
+b=len (a)
+print("The number of digits in the number are:",b)
 ```
 ### OUTPUT
+<img width="992" height="256" alt="image" src="https://github.com/user-attachments/assets/88e920d4-857d-405a-ab72-91d961b09ed1" />
 
 ### RESULT
+Thus the python program to count the number of digits in a number has been implemented and executed successfully.
